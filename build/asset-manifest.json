@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.35ff6881.css",
+    "main.js": "/static/js/main.72d36643.js",
+    "static/js/787.35aa3f54.chunk.js": "/static/js/787.35aa3f54.chunk.js",
+    "static/media/milin-john-We01ED9Ei6g-unsplash.jpg": "/static/media/milin-john-We01ED9Ei6g-unsplash.e3cfc834cb6e594688df.jpg",
+    "index.html": "/index.html",
+    "main.35ff6881.css.map": "/static/css/main.35ff6881.css.map",
+    "main.72d36643.js.map": "/static/js/main.72d36643.js.map",
+    "787.35aa3f54.chunk.js.map": "/static/js/787.35aa3f54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35ff6881.css",
+    "static/js/main.72d36643.js"
+  ]
+}
